@@ -8,3 +8,5 @@ Biblioteca desenvolvida para facilitar conexao e consultas no mongo db para auto
 # Tecnologias
 - Maven
 - Java 11+
+
+# Em construção...
